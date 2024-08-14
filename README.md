@@ -57,7 +57,7 @@ More about me: https://www.arianprabowo.com/
 * Category Theory https://www.youtube.com/playlist?list=PLSdFiFTAI4sQ0Rg4BIZcNnU-45I9DI-VB
 
 ## Other lists
-* https://kidger.site/thoughts/just-know-stuff/
+* Just know stuff. (Or, how to achieve success in a machine learning PhD.) from an Oxford PhD graduate on Neural Differential Equations https://kidger.site/thoughts/just-know-stuff/
 * EleutherAI Deep learning for dummies cookbook https://github.com/EleutherAI/cookbook
 * https://distill.pub/
 * http://visxai.io/
