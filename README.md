@@ -4,7 +4,8 @@ This is a list of what to learn if you want to do deep learning based on my own 
 * I like neuroscience
 * I am not as good at math and programming as I would like to be (yet)
 * I like [pretty pictures](https://betterimagesofai.org/)
-* My PhD was on traffic forecasting, so there are more stuff on timeseries and graph.
+* I did academia
+* I started with [traffic forecasting](https://github.com/aprbw/traffic_prediction), so there are more stuff on timeseries and graph.
 
 ![Nine small images with schematic representations of differently shaped neural networks, a human hand making a different gesture is placed behind each network.](https://github.com/user-attachments/assets/97f9123e-f9cf-4a0e-84a8-61a3d4009fdd)
 
