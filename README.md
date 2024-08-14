@@ -5,7 +5,8 @@ This is a list of what to learn if you want to do deep learning based on my own 
 * I am not as good at math and programming as I would like to be (yet)
 * I like [pretty pictures](https://betterimagesofai.org/)
 * I did academia
-* I started with [traffic forecasting](https://github.com/aprbw/traffic_prediction), so there are more stuff on timeseries and graph.
+* I started with [traffic forecasting](https://github.com/aprbw/traffic_prediction), so there are more stuff on timeseries and graph
+* I like a list that started with Khan Academy and ended with Category Theory
 
 More about me: https://www.arianprabowo.com/
 
