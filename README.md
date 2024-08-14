@@ -3,8 +3,11 @@
 This is a list of what to learn if you want to do deep learning based on my own personal opinion. My biases are:
 * I like neuroscience
 * I am not as good at math and programming as I would like to be (yet)
-* I like pretty pictures
+* I like [pretty pictures](https://betterimagesofai.org/)
 * My PhD was on traffic forecasting, so there are more stuff on timeseries and graph.
+
+![Nine small images with schematic representations of differently shaped neural networks, a human hand making a different gesture is placed behind each network.](https://github.com/user-attachments/assets/97f9123e-f9cf-4a0e-84a8-61a3d4009fdd)
+<span><a href="https://www.burg-halle.de/en/xlab">Alexa Steinbrück</a> / <a href="https://www.betterimagesofai.org">Better Images of AI</a> / Explainable AI / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a></span>
 
 ## Basics (from literal zero):
 * Learn the most advanced math that is typically available in highschool (Like IB Math HL) : https://www.khanacademy.org/
