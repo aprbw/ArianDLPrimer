@@ -21,17 +21,17 @@ More about me: https://www.arianprabowo.com/
 * https://www.coursera.org/specializations/machine-learning-introduction
 * ML workflow https://medium.datadriveninvestor.com/my-machine-learning-workflow-7576f7dbcef3
 * Yann LeCun's NYU Deep Learning course https://atcold.github.io/NYU-DLSP21/
-* Bishop's PRML
+* Bishop's PRML https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 
 ## Tools
-* https://lightning.ai/pytorch-lightning https://towardsdatascience.com/awesome-pytorch-lightning-template-485a75c2f47e
-* https://pytorch-geometric-temporal.readthedocs.io/
-* https://wandb.ai/
-* https://pytorch.org/tutorials/recipes/recipes/tensorboard_with_pytorch.html
+* PyTorch Lightning https://lightning.ai/pytorch-lightning https://towardsdatascience.com/awesome-pytorch-lightning-template-485a75c2f47e
+* TensorBoard https://pytorch.org/tutorials/recipes/recipes/tensorboard_with_pytorch.html
+* Experiment management https://wandb.ai/
 
 ## Time Series
 * Amazon's Big TS tutorial https://www.amazon.science/videos-and-tutorials/forecasting-big-time-series-theory-and-practice
 * Swiss AI Lab tutorial: https://gmlg.ch/tutorials/graph-based-processing/ecml-2023 https://arxiv.org/abs/2310.15978
+* https://pytorch-geometric-temporal.readthedocs.io/
 
 ## Basic Concepts
 * Universal Approximation Theorem https://medium.datadriveninvestor.com/how-ai-works-explained-with-an-analogy-from-finance-9d89a919cd74
