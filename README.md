@@ -1,4 +1,4 @@
-# Arian's DL/TS primer
+# Arian's DL primer
 
 This is a list of what to learn if you want to do deep learning based on my own personal opinion. My biases are:
 * I like neuroscience
@@ -11,7 +11,7 @@ This is a list of what to learn if you want to do deep learning based on my own 
 
 <span><a href="https://www.burg-halle.de/en/xlab">Alexa Steinbrück</a> / <a href="https://www.betterimagesofai.org">Better Images of AI</a> / Explainable AI / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a></span>
 
-## Basics (from literal zero):
+## Basics (from literal zero)
 * Learn the most advanced math that is typically available in highschool (Like IB Math HL) : https://www.khanacademy.org/
 * Learn Python
 * https://iamtrask.github.io/2015/07/12/basic-python-network/
@@ -20,7 +20,7 @@ This is a list of what to learn if you want to do deep learning based on my own 
 * Yann LeCun's NYU Deep Learning course https://atcold.github.io/NYU-DLSP21/
 * Bishop's PRML
 
-## Tools: 
+## Tools
 * https://lightning.ai/pytorch-lightning
 * https://pytorch-geometric-temporal.readthedocs.io/
 * https://wandb.ai/
@@ -30,7 +30,7 @@ This is a list of what to learn if you want to do deep learning based on my own 
 * Amazon's Big TS tutorial https://www.amazon.science/videos-and-tutorials/forecasting-big-time-series-theory-and-practice
 * Swiss AI Lab tutorial: https://gmlg.ch/tutorials/graph-based-processing/ecml-2023 https://arxiv.org/abs/2310.15978
 
-## Basic Concepts:
+## Basic Concepts
 * Universal Approximation Theorem
 * Manifold Hypothesis and NeuralODE
 * Yann LeCun
@@ -39,7 +39,7 @@ This is a list of what to learn if you want to do deep learning based on my own 
 	* JEPA https://openreview.net/pdf?id=BZ5a1r-kVsf
 * Geometric Deep Learning https://geometricdeeplearning.com/
 
-## Useful Concepets:
+## Useful Concepets
 * Nervous System (biology): 
 	* Action potential, synapse, connectome
 	* synaptic plasticity, Hebbian theory, why "a brain that heals easily cannot learn".
@@ -51,7 +51,7 @@ This is a list of what to learn if you want to do deep learning based on my own 
 * Type theory and functional programming https://colah.github.io/posts/2015-09-NN-Types-FP/
 * Category Theory https://www.youtube.com/playlist?list=PLSdFiFTAI4sQ0Rg4BIZcNnU-45I9DI-VB
 
-## Other lists:
+## Other lists
 * https://kidger.site/thoughts/just-know-stuff/
 * EleutherAI Deep learning for dummies cookbook https://github.com/EleutherAI/
 * https://distill.pub/
