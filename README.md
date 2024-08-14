@@ -7,6 +7,8 @@ This is a list of what to learn if you want to do deep learning based on my own 
 * I did academia
 * I started with [traffic forecasting](https://github.com/aprbw/traffic_prediction), so there are more stuff on timeseries and graph.
 
+More about me: https://www.arianprabowo.com/
+
 ![Nine small images with schematic representations of differently shaped neural networks, a human hand making a different gesture is placed behind each network.](https://github.com/user-attachments/assets/97f9123e-f9cf-4a0e-84a8-61a3d4009fdd)
 
 <span><a href="https://www.burg-halle.de/en/xlab">Alexa Steinbrück</a> / <a href="https://www.betterimagesofai.org">Better Images of AI</a> / Explainable AI / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a></span>
@@ -17,11 +19,12 @@ This is a list of what to learn if you want to do deep learning based on my own 
 * https://iamtrask.github.io/2015/07/12/basic-python-network/
 * https://www.3blue1brown.com/topics/neural-networks
 * https://www.coursera.org/specializations/machine-learning-introduction
+* ML workflow https://medium.datadriveninvestor.com/my-machine-learning-workflow-7576f7dbcef3
 * Yann LeCun's NYU Deep Learning course https://atcold.github.io/NYU-DLSP21/
 * Bishop's PRML
 
 ## Tools
-* https://lightning.ai/pytorch-lightning
+* https://lightning.ai/pytorch-lightning https://towardsdatascience.com/awesome-pytorch-lightning-template-485a75c2f47e
 * https://pytorch-geometric-temporal.readthedocs.io/
 * https://wandb.ai/
 * https://pytorch.org/tutorials/recipes/recipes/tensorboard_with_pytorch.html
@@ -31,13 +34,14 @@ This is a list of what to learn if you want to do deep learning based on my own 
 * Swiss AI Lab tutorial: https://gmlg.ch/tutorials/graph-based-processing/ecml-2023 https://arxiv.org/abs/2310.15978
 
 ## Basic Concepts
-* Universal Approximation Theorem
+* Universal Approximation Theorem https://medium.datadriveninvestor.com/how-ai-works-explained-with-an-analogy-from-finance-9d89a919cd74
 * Manifold Hypothesis and NeuralODE
 * Yann LeCun
 	* Self-Supervised Learning https://arxiv.org/pdf/2304.12210
 	* Energy Based Models (taught in his course https://atcold.github.io/NYU-DLSP21/)
 	* JEPA https://openreview.net/pdf?id=BZ5a1r-kVsf
 * Geometric Deep Learning https://geometricdeeplearning.com/
+* Ethics https://medium.com/swlh/dataset-can-only-be-unbalanced-not-racist-but-humans-can-5c522590efce
 
 ## Useful Concepets
 * Nervous System (biology): 
