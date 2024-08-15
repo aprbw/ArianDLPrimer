@@ -14,13 +14,23 @@ More about me: https://www.arianprabowo.com/
 
 <span><a href="https://www.burg-halle.de/en/xlab">Alexa Steinbrück</a> / <a href="https://www.betterimagesofai.org">Better Images of AI</a> / Explainable AI / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a></span>
 
+## Passive, general knowledge
+* CGP Grey How AI learn https://youtu.be/R9OHn5ZF4Uo?si=twh2c7noeizD21UB https://youtu.be/wvWpdrfoEv0?si=wvuCZ9Ol5O_3crpD
+* https://www.3blue1brown.com/topics/neural-networks
+* Decision Tree http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+* https://www.naftaliharris.com/blog/visualizing-k-means-clustering/ https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
+* https://playground.tensorflow.org/
+* ML workflow https://medium.datadriveninvestor.com/my-machine-learning-workflow-7576f7dbcef3
+* List of different topics https://paperswithcode.com/sota
+* Understanding LLM https://bbycroft.net/llm
+* Feature visualization in Computer Vision (CNN) https://distill.pub/2017/feature-visualization/
+* Just look at figure 2 https://arxiv.org/abs/1506.02078
+
 ## Basics (from literal zero)
-* Learn the most advanced math that is typically available in highschool (Like IB Math HL) : https://www.khanacademy.org/
+* Learn the most advanced math that is typically available in hig hschool (Like IB Math HL) : https://www.khanacademy.org/
 * Learn Python
 * https://iamtrask.github.io/2015/07/12/basic-python-network/
-* https://www.3blue1brown.com/topics/neural-networks
 * https://www.coursera.org/specializations/machine-learning-introduction
-* ML workflow https://medium.datadriveninvestor.com/my-machine-learning-workflow-7576f7dbcef3
 * Yann LeCun's NYU Deep Learning course https://atcold.github.io/NYU-DLSP21/
 * Bishop's PRML https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 
