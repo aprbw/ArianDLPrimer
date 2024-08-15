@@ -31,7 +31,7 @@ Don't expect any real learning to be happening.
 * Learn the most advanced math that is typically available in hig hschool (Like IB Math HL) : https://www.khanacademy.org/
 * Learn Python
 * https://iamtrask.github.io/2015/07/12/basic-python-network/
-* https://www.coursera.org/specializations/machine-learning-introduction
+* The famous Andew Ng's Coursera https://www.coursera.org/specializations/machine-learning-introduction
 * Yann LeCun's NYU Deep Learning course https://atcold.github.io/NYU-DLSP21/
 * Bishop's PRML https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 
