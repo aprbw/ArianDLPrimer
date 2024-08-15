@@ -14,7 +14,8 @@ More about me: https://www.arianprabowo.com/
 
 <span><a href="https://www.burg-halle.de/en/xlab">Alexa Steinbrück</a> / <a href="https://www.betterimagesofai.org">Better Images of AI</a> / Explainable AI / <a href="https://creativecommons.org/licenses/by/4.0/">Licenced by CC-BY 4.0</a></span>
 
-## Passive, general knowledge
+## An appetizer board to whet your whistle
+Don't expect any real learning to be happening.
 * CGP Grey How AI learn https://youtu.be/R9OHn5ZF4Uo?si=twh2c7noeizD21UB https://youtu.be/wvWpdrfoEv0?si=wvuCZ9Ol5O_3crpD
 * https://www.3blue1brown.com/topics/neural-networks
 * Decision Tree http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
