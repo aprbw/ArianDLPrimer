@@ -61,7 +61,8 @@ Don't expect any real learning to be happening.
 	* Action potential, synapse, connectome
 	* synaptic plasticity, Hebbian theory, why "a brain that heals easily cannot learn".
 	* https://en.wikipedia.org/wiki/Functional_specialization_(brain) and https://en.wikipedia.org/wiki/Place_cell
-* Non-Backprop ANN: Kohonen's self-organizing map, Boltzmann Machine, Helmholtz Machine, Spiking Neural Network
+* **Non-Backprop ANN**: Kohonen's self-organizing map, Boltzmann Machine, Helmholtz Machine, Spiking Neural Network
+* **Exotic architecture** : KAN: Kolmogorov-Arnold Networks https://arxiv.org/pdf/2404.19756
 * Karl Friston Free energy principle / predictive coding / active inference / Anil Seth: The hallucination of consciousness
 * A statistical perspective of deep learning https://deeplearningtheory.com/
 * Information Theory https://bayes.wustl.edu/etj/articles/theory.1.pdf
