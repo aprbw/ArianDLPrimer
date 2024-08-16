@@ -57,6 +57,7 @@ Don't expect any real learning to be happening.
 * Ethics https://medium.com/swlh/dataset-can-only-be-unbalanced-not-racist-but-humans-can-5c522590efce
 
 ## Useful Concepets
+* TRLML: Technology readiness levels for machine learning systems https://www.nature.com/articles/s41467-022-33128-9
 * Nervous System (biology): 
 	* Action potential, synapse, connectome
 	* synaptic plasticity, Hebbian theory, why "a brain that heals easily cannot learn".
