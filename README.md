@@ -21,6 +21,7 @@ Don't expect any real learning to be happening.
 * Decision Tree http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 * https://www.naftaliharris.com/blog/visualizing-k-means-clustering/ https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
 * https://playground.tensorflow.org/
+* Visualisation of loss landscape: https://losslandscape.com/
 * ML workflow https://medium.datadriveninvestor.com/my-machine-learning-workflow-7576f7dbcef3
 * List of different topics https://paperswithcode.com/sota
 * Understanding LLM https://bbycroft.net/llm
