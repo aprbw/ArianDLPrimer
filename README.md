@@ -35,6 +35,7 @@ Don't expect any real learning to be happening.
 * The famous Andew Ng's Coursera https://www.coursera.org/specializations/machine-learning-introduction
 * Yann LeCun's NYU Deep Learning course https://atcold.github.io/NYU-DLSP21/
 * Bishop's PRML https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+* Learn how to read papers. Start by listening to people talking about a paper, and then re-read it after you watch the talk. https://www.youtube.com/c/yannickilcher
 
 ## Tools
 * PyTorch Lightning https://lightning.ai/pytorch-lightning https://towardsdatascience.com/awesome-pytorch-lightning-template-485a75c2f47e
