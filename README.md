@@ -52,7 +52,7 @@ Don't expect any real learning to be happening.
 * Manifold Hypothesis and NeuralODE
 * Yann LeCun
 	* Self-Supervised Learning https://arxiv.org/pdf/2304.12210
-	* Energy Based Models (taught in his course https://atcold.github.io/NYU-DLSP21/)
+	* Energy Based Models https://yann.lecun.com/exdb/publis/orig/lecun-06.pdf (also taught in his course https://atcold.github.io/NYU-DLSP21/)
 	* JEPA https://openreview.net/pdf?id=BZ5a1r-kVsf
 * Geometric Deep Learning https://geometricdeeplearning.com/
 * Ethics https://medium.com/swlh/dataset-can-only-be-unbalanced-not-racist-but-humans-can-5c522590efce
