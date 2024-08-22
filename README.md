@@ -6,6 +6,7 @@ This is a list of what to learn if you want to do deep learning based on my own 
 * I like [pretty pictures](https://betterimagesofai.org/)
 * I did academia
 * I started with [traffic forecasting](https://github.com/aprbw/traffic_prediction), so there are more stuff on timeseries and graph
+* (I haven't actually read everything, this also works as my reading list.)
 * I like a list that started with Khan Academy and ended with Category Theory
 
 More about me: https://www.arianprabowo.com/
@@ -41,6 +42,7 @@ Don't expect any real learning to be happening.
 * PyTorch Lightning https://lightning.ai/pytorch-lightning https://towardsdatascience.com/awesome-pytorch-lightning-template-485a75c2f47e
 * TensorBoard https://pytorch.org/tutorials/recipes/recipes/tensorboard_with_pytorch.html
 * Experiment management https://wandb.ai/
+* JAX https://github.com/google/jax
 
 ## Time Series
 * Amazon's Big TS tutorial https://www.amazon.science/videos-and-tutorials/forecasting-big-time-series-theory-and-practice
