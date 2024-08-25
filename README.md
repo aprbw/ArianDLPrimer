@@ -17,15 +17,19 @@ More about me: https://www.arianprabowo.com/
 
 ## An appetizer board to whet your whistle
 Don't expect any real learning to be happening.
+Videos:
 * CGP Grey How AI learn https://youtu.be/R9OHn5ZF4Uo?si=twh2c7noeizD21UB https://youtu.be/wvWpdrfoEv0?si=wvuCZ9Ol5O_3crpD
 * https://www.3blue1brown.com/topics/neural-networks
+* AlexNet https://youtu.be/UZDiGooFs54?si=nW3b5gWOcmF2I4i4
+Interactive stuff:
 * Decision Tree http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
 * https://www.naftaliharris.com/blog/visualizing-k-means-clustering/ https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
 * https://playground.tensorflow.org/
 * Visualisation of loss landscape: https://losslandscape.com/
+* Understanding LLM https://bbycroft.net/llm
+Reading:
 * ML workflow https://medium.datadriveninvestor.com/my-machine-learning-workflow-7576f7dbcef3
 * List of different topics https://paperswithcode.com/sota
-* Understanding LLM https://bbycroft.net/llm
 * Feature visualization in Computer Vision (CNN) https://distill.pub/2017/feature-visualization/
 * Just look at figure 2 https://arxiv.org/abs/1506.02078
 
