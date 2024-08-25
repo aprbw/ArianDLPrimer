@@ -68,7 +68,7 @@ Reading:
 * Geometric Deep Learning https://geometricdeeplearning.com/
 * Ethics https://medium.com/swlh/dataset-can-only-be-unbalanced-not-racist-but-humans-can-5c522590efce
 
-## Useful Concepets
+## Useful Concepts
 * TRLML: Technology readiness levels for machine learning systems https://www.nature.com/articles/s41467-022-33128-9
 * Nervous System (biology): 
 	* Action potential, synapse, connectome
