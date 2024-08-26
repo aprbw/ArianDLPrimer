@@ -32,6 +32,7 @@ Interactive stuff:
 * Understanding LLM https://bbycroft.net/llm
 
 Reading:
+* Paper and gifs explaining convolution. https://github.com/vdumoulin/conv_arithmetic
 * ML workflow https://medium.datadriveninvestor.com/my-machine-learning-workflow-7576f7dbcef3
 * List of different topics https://paperswithcode.com/sota
 * Feature visualization in Computer Vision (CNN) https://distill.pub/2017/feature-visualization/
