@@ -1,5 +1,13 @@
 Just a hidden of list things that I think has potential to be explored about.
 
+# Extending Convolution
+
+Basics on convlution:
+
+* AlexNet, Convolution, CNN: https://www.youtube.com/watch?v=UZDiGooFs54
+* https://github.com/vdumoulin/conv_arithmetic
+* https://en.wikipedia.org/wiki/Convolution_theorem
+
 Note that the similarity of convolution with cellular automata (CA). So one way to explore is to see what other exciting stuff that people have done with CA:
 
 * Basics on CA: https://en.wikipedia.org/wiki/Cellular_automaton and the underlying theory of https://en.wikipedia.org/wiki/Automata_theory . CA is big deal because it relates to the underlying theory of computation in general https://en.wikipedia.org/wiki/Abstract_machine and even more broadly: https://en.wikipedia.org/wiki/Artificial_life which goes into full circle back to AI.
