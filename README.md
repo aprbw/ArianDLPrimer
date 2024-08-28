@@ -76,6 +76,7 @@ Reading:
 	* Action potential, synapse, connectome
 	* synaptic plasticity, Hebbian theory, why "a brain that heals easily cannot learn".
 	* https://en.wikipedia.org/wiki/Functional_specialization_(brain) and https://en.wikipedia.org/wiki/Place_cell
+* **GOFAI** Good old fashioned artificial intelligence and Symbollic AI
 * **Non-Backprop ANN**: Kohonen's self-organizing map, Boltzmann Machine, Helmholtz Machine, Spiking Neural Network
 * **Exotic architecture** : KAN: Kolmogorov-Arnold Networks https://arxiv.org/pdf/2404.19756
 * Karl Friston Free energy principle / predictive coding / active inference / Anil Seth: The hallucination of consciousness
@@ -85,6 +86,7 @@ Reading:
 * Category Theory https://www.youtube.com/playlist?list=PLSdFiFTAI4sQ0Rg4BIZcNnU-45I9DI-VB
 
 ## Other lists
+* MIT 6.S191 Introduction to Deep Learning http://introtodeeplearning.com/
 * Just know stuff. (Or, how to achieve success in a machine learning PhD.) from an Oxford PhD graduate on Neural Differential Equations https://kidger.site/thoughts/just-know-stuff/
 * EleutherAI Deep learning for dummies cookbook https://github.com/EleutherAI/cookbook
 * https://distill.pub/
