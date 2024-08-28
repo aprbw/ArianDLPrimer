@@ -6,6 +6,7 @@ This is a list of what to learn if you want to do deep learning based on my own 
 * I like [pretty pictures](https://betterimagesofai.org/)
 * I did [academia](https://researchrepository.rmit.edu.au/esploro/outputs/9922229712001341)
 * I started with [traffic forecasting](https://github.com/aprbw/traffic_prediction), so there are more stuff on timeseries and graph
+* This is list was made / updated around 2nd half of 2024. Some things might get outdated in few years (or less).
 * (I haven't actually read everything, this also works as my reading list.)
 * I like a list that started with Khan Academy and ended with Category Theory
 
@@ -26,8 +27,8 @@ Videos:
 
 Interactive stuff:
 * Decision Tree http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
-* https://www.naftaliharris.com/blog/visualizing-k-means-clustering/ https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
-* https://playground.tensorflow.org/
+* Unsupervised / clusterting algorithms: K-means https://www.naftaliharris.com/blog/visualizing-k-means-clustering/ DBScan https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/
+* A multilayer perceptron ([MLP](https://en.wikipedia.org/wiki/My_Little_Pony:_Friendship_Is_Magic)) https://playground.tensorflow.org/
 * Visualisation of loss landscape: https://losslandscape.com/
 * Understanding LLM https://bbycroft.net/llm
 
@@ -40,8 +41,8 @@ Reading:
 
 ## Basics (from literal zero)
 * Learn the most advanced math that is typically available in hig hschool (Like IB Math HL) : https://www.khanacademy.org/
-* Learn Python
-* https://iamtrask.github.io/2015/07/12/basic-python-network/
+* Learn Python and the typical libraries (NumPy, SciPy, pandas, scikit-learn, matplotlib [properly](https://matplotlib.org/matplotblog/posts/pyplot-vs-object-oriented-interface/), Vega-Altair)
+* A Neural Network in 11 lines of Python https://iamtrask.github.io/2015/07/12/basic-python-network/
 * The famous Andew Ng's Coursera https://www.coursera.org/specializations/machine-learning-introduction
 * Yann LeCun's NYU Deep Learning course https://atcold.github.io/NYU-DLSP21/
 * Bishop's PRML https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
