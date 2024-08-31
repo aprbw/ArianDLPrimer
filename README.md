@@ -40,13 +40,13 @@ Reading:
 * Just look at figure 2 https://arxiv.org/abs/1506.02078
 
 ## Basics (from literal zero)
-* Learn the most advanced math that is typically available in hig hschool (Like IB Math HL) : https://www.khanacademy.org/
-* Learn Python and the typical libraries (NumPy, SciPy, pandas, scikit-learn, matplotlib [properly](https://matplotlib.org/matplotblog/posts/pyplot-vs-object-oriented-interface/), Vega-Altair)
-* A Neural Network in 11 lines of Python https://iamtrask.github.io/2015/07/12/basic-python-network/
-* The famous Andew Ng's Coursera https://www.coursera.org/specializations/machine-learning-introduction
-* Yann LeCun's NYU Deep Learning course https://atcold.github.io/NYU-DLSP21/
-* Bishop's PRML https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
-* Learn how to read papers. Start by listening to people talking about a paper, and then re-read it after you watch the talk. https://www.youtube.com/c/yannickilcher
+1. Learn the most advanced math that is typically available in hig hschool (Like IB Math HL) : https://www.khanacademy.org/
+1. Learn Python and the typical libraries (NumPy, SciPy, pandas, scikit-learn, matplotlib [properly](https://matplotlib.org/matplotblog/posts/pyplot-vs-object-oriented-interface/), Vega-Altair)
+1. A Neural Network in 11 lines of Python https://iamtrask.github.io/2015/07/12/basic-python-network/
+1. The famous Andew Ng's Coursera https://www.coursera.org/specializations/machine-learning-introduction
+1. Yann LeCun's NYU Deep Learning course https://atcold.github.io/NYU-DLSP21/
+1. Bishop's PRML https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
+1. Learn how to read papers. Start by listening to people talking about a paper, and then re-read it after you watch the talk. https://www.youtube.com/c/yannickilcher
 
 ## Tools
 * PyTorch Lightning https://lightning.ai/pytorch-lightning https://towardsdatascience.com/awesome-pytorch-lightning-template-485a75c2f47e
