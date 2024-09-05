@@ -39,7 +39,7 @@ Reading:
 * Feature visualization in Computer Vision (CNN) https://distill.pub/2017/feature-visualization/
 * Just look at figure 2 https://arxiv.org/abs/1506.02078
 
-## Basics (from literal zero)
+## Prerequisite (from literal zero)
 1. Learn the most advanced math that is typically available in hig hschool (Like IB Math HL) : https://www.khanacademy.org/
 1. Learn Python and the typical libraries (NumPy, SciPy, pandas, scikit-learn, matplotlib [properly](https://matplotlib.org/matplotblog/posts/pyplot-vs-object-oriented-interface/), Vega-Altair)
 1. A Neural Network in 11 lines of Python https://iamtrask.github.io/2015/07/12/basic-python-network/
