@@ -89,6 +89,7 @@ Reading:
 * MIT 6.S191 Introduction to Deep Learning http://introtodeeplearning.com/
 * Just know stuff. (Or, how to achieve success in a machine learning PhD.) from an Oxford PhD graduate on Neural Differential Equations https://kidger.site/thoughts/just-know-stuff/
 * EleutherAI Deep learning for dummies cookbook https://github.com/EleutherAI/cookbook
+* https://deep-learning-drizzle.github.io/ from https://www.reddit.com/r/learnmachinelearning/wiki/resource/
 * https://distill.pub/
 * http://visxai.io/
 * EleutherAI Math4ML Flowchart https://eleutherai.notion.site/Notion-Flowchart-Generator-48cb82f37e8c43d99331d29586f31dfc#45785c6e9b394d63a02f7b834e82f17f
