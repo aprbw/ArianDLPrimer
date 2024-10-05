@@ -88,6 +88,7 @@ Reading:
 ## Other lists
 * MIT 6.S191 Introduction to Deep Learning http://introtodeeplearning.com/
 * Just know stuff. (Or, how to achieve success in a machine learning PhD.) from an Oxford PhD graduate on Neural Differential Equations https://kidger.site/thoughts/just-know-stuff/
+* https://algorithmiclens.substack.com/p/a-deep-dive-into-modern-deep-learning
 * EleutherAI Deep learning for dummies cookbook https://github.com/EleutherAI/cookbook
 * https://deep-learning-drizzle.github.io/ from https://www.reddit.com/r/learnmachinelearning/wiki/resource/
 * https://distill.pub/
