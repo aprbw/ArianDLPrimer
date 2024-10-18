@@ -48,11 +48,17 @@ Reading:
 1. Bishop's PRML https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 1. Learn how to read papers. Start by listening to people talking about a paper, and then re-read it after you watch the talk. https://www.youtube.com/c/yannickilcher
 
-## Tools
-* PyTorch Lightning https://lightning.ai/pytorch-lightning https://towardsdatascience.com/awesome-pytorch-lightning-template-485a75c2f47e
-* TensorBoard https://pytorch.org/tutorials/recipes/recipes/tensorboard_with_pytorch.html
+## Tools and practial tips
+* [PyTorch](https://pytorch.org) path (there would be similar ones for [TensorFlow](https://www.tensorflow.org/) and [JAX](https://github.com/google/jax)
+  * Do the basic tutorials as much / little as you want:
+    * https://pytorch.org/tutorials/beginner/basics/intro.html
+    * https://pytorch.org/tutorials/beginner/introyt.html
+    * https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
+  * Make sure you have a good idea on what is happening, at least, one layer under the hood of whatever abstraction level you are working on. For me who mostly work on architectures and framework, it would be this: https://pytorch.org/tutorials/beginner/nn_tutorial.html .
+  * PyTorch Lightning https://lightning.ai/pytorch-lightning https://towardsdatascience.com/awesome-pytorch-lightning-template-485a75c2f47e
+  * TensorBoard https://pytorch.org/tutorials/recipes/recipes/tensorboard_with_pytorch.html
 * Experiment management https://wandb.ai/
-* JAX https://github.com/google/jax
+* Coding deep learning is a bit different than normal programming. In academia, usually you just want your code to fully run once, to write a paper. So you might not over-invest in maintainability. On the other hand, things tend to fail silently, like the loss are just not going down. And there won't be any error / warning message that you will help you narrow things down. So a different approach is required. Here is a great [Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/).
 
 ## Time Series
 * Amazon's Big TS tutorial https://www.amazon.science/videos-and-tutorials/forecasting-big-time-series-theory-and-practice
