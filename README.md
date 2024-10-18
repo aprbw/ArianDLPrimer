@@ -38,6 +38,7 @@ Reading:
 * List of different topics https://paperswithcode.com/sota
 * Feature visualization in Computer Vision (CNN) https://distill.pub/2017/feature-visualization/
 * Just look at figure 2 https://arxiv.org/abs/1506.02078
+* I think it is always a great idea to learn the "meta" level of that subject. In the case of deep learning, how it interacts with the rest of the world: which industry it is affecting, will affect, or could potential affect; economics, culture, society, politics, and ethics. Here is a good summary: https://www.stateof.ai/ .
 
 ## Prerequisite (from literal zero)
 1. Learn the most advanced math that is typically available in hig hschool (Like IB Math HL) : https://www.khanacademy.org/
