@@ -98,6 +98,7 @@ Reading:
 * https://algorithmiclens.substack.com/p/a-deep-dive-into-modern-deep-learning
 * EleutherAI Deep learning for dummies cookbook https://github.com/EleutherAI/cookbook
 * https://deep-learning-drizzle.github.io/ from https://www.reddit.com/r/learnmachinelearning/wiki/resource/
+* https://www.pythondiscord.com/resources/?topics=data-science
 * https://distill.pub/
 * http://visxai.io/
 * EleutherAI Math4ML Flowchart https://eleutherai.notion.site/Notion-Flowchart-Generator-48cb82f37e8c43d99331d29586f31dfc#45785c6e9b394d63a02f7b834e82f17f
