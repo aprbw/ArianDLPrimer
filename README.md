@@ -78,7 +78,7 @@ Reading:
 	* https://en.wikipedia.org/wiki/Functional_specialization_(brain) and https://en.wikipedia.org/wiki/Place_cell
 * **GOFAI** Good old fashioned artificial intelligence and Symbollic AI
 * **Non-Backprop ANN**: Kohonen's self-organizing map, Boltzmann Machine, Helmholtz Machine, Spiking Neural Network
-* **Exotic architecture** : KAN: Kolmogorov-Arnold Networks https://arxiv.org/pdf/2404.19756, Neural Rendering: https://www.science.org/doi/10.1126/science.aar6170 https://www.matthewtancik.com/nerf
+* **Exotic architecture** : Bayesian Neural Nets, KAN: Kolmogorov-Arnold Networks https://arxiv.org/pdf/2404.19756, Neural Rendering: https://www.science.org/doi/10.1126/science.aar6170 https://www.matthewtancik.com/nerf
 * Karl Friston Free energy principle / predictive coding / active inference / Anil Seth: The hallucination of consciousness
 * A statistical perspective of deep learning https://deeplearningtheory.com/
 * Information Theory https://bayes.wustl.edu/etj/articles/theory.1.pdf
