@@ -49,6 +49,8 @@ Reading:
 1. Bishop's PRML https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 1. Learn how to read papers. Start by listening to people talking about a paper, and then re-read it after you watch the talk. https://www.youtube.com/c/yannickilcher
 
+(An alternative list of pre-req: https://roadmap.sh/ai-data-scientist)
+
 ## Tools and practial tips
 * [PyTorch](https://pytorch.org) path (there would be similar ones for [TensorFlow](https://www.tensorflow.org/) and [JAX](https://github.com/google/jax)
   * Do the basic tutorials as much / little as you want:
@@ -68,6 +70,9 @@ Reading:
 * Explainable AI for Time Series Classification: A Review, Taxonomy and Research Directions https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9895252
 
 ## Basic Concepts
+
+By basic, I do not mean that this where people should start. That would be the pre-requisite. I do not mean that this is going to be easy either. I think people should have gotten dirty with a couple of hands on project before getting to this stage. I think, only by then people are going to be able the appreciate the basics, as in the different theories on what are the elementary building blocks, the fundamentals. Note that, as this is only a baby science, nobody knows what it works yet. But below is a collection of some theories that are most probably wrong, but contains some useful heuristic to help us along the way. I think it is worth slowing down and understanding every ideas in this section.
+
 * Universal Approximation Theorem https://medium.datadriveninvestor.com/how-ai-works-explained-with-an-analogy-from-finance-9d89a919cd74
 * [Manifold Hypothesis](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) and NeuralODE
 * Yann LeCun
