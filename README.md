@@ -68,10 +68,13 @@ Reading:
 * Swiss AI Lab tutorial: https://gmlg.ch/tutorials/graph-based-processing/ecml-2023 https://arxiv.org/abs/2310.15978
 * https://pytorch-geometric-temporal.readthedocs.io/
 * Explainable AI for Time Series Classification: A Review, Taxonomy and Research Directions https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9895252
+* Spatio-temporal time series:
+	* [CSUR 2018] Spatio-Temporal Data Mining: A Survey of Problems and Methods. Atluri et. al. https://arxiv.org/abs/1711.04710
+	* [TKDE 2020] Deep Learning for Spatio-Temporal Data Mining: A Survey. Wang et. al. https://ieeexplore.ieee.org/abstract/document/9204396
 
 ## Basic Concepts
 
-By basic, I do not mean that this where people should start. That would be the pre-requisite. I do not mean that this is going to be easy either. I think people should have gotten dirty with a couple of hands on project before getting to this stage. I think, only by then people are going to be able the appreciate the basics, as in the different theories on what are the elementary building blocks, the fundamentals. Note that, as this is only a baby science, nobody knows what it works yet. But below is a collection of some theories that are most probably wrong, but contains some useful heuristic to help us along the way. I think it is worth slowing down and understanding every ideas in this section.
+By basic, I do not mean that this where people should start. That would be the pre-requisite. I do not mean that this is going to be easy either. I think people should have gotten dirty with a couple of hands on project before getting to this stage. I think, only by then people are going to be able the appreciate the basics, as in the different theories on what are the elementary building blocks, the fundamentals. Note that, as this is only a baby science, nobody knows what works, and how it works yet. But below is a collection of some theories that are most probably wrong, but contains some useful heuristic to help us along the way. I think it is worth slowing down and understanding every ideas in this section.
 
 * Universal Approximation Theorem https://medium.datadriveninvestor.com/how-ai-works-explained-with-an-analogy-from-finance-9d89a919cd74
 * [Manifold Hypothesis](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) and NeuralODE
