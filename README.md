@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/901e739f-a5e5-4c7d-a4eb-22063ae5c72b)# Arian's DL primer
+# Arian's DL primer
 
 This is a list of what to learn if you want to do deep learning based on my own personal opinion. My biases are:
 * I like neuroscience
