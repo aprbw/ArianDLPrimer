@@ -90,6 +90,7 @@ Note that, as this is only a baby science, nobody knows what works, and how it w
 	* JEPA https://openreview.net/pdf?id=BZ5a1r-kVsf
 * Geometric Deep Learning https://geometricdeeplearning.com/
 * Ethics https://medium.com/swlh/dataset-can-only-be-unbalanced-not-racist-but-humans-can-5c522590efce
+* It is good to be critical about the trends and current trends and think thorough about the interplay between the nature of the data, task, and methods. A good example from timeseies is: [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/pdf/2205.13504)
 
 ## Useful Concepts
 * TRLML: Technology readiness levels for machine learning systems https://www.nature.com/articles/s41467-022-33128-9
