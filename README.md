@@ -1,4 +1,4 @@
-# Arian's DL primer
+![image](https://github.com/user-attachments/assets/901e739f-a5e5-4c7d-a4eb-22063ae5c72b)# Arian's DL primer
 
 This is a list of what to learn if you want to do deep learning based on my own personal opinion. My biases are:
 * I like neuroscience
@@ -64,6 +64,9 @@ Reading:
 * Coding deep learning is a bit different than normal programming. In academia, usually you just want your code to fully run once, to write a paper. So you might not over-invest in maintainability. On the other hand, things tend to fail silently, like the loss are just not going down. And there won't be any error / warning message that you will help you narrow things down. So a different approach is required. Here is a great [Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/).
 
 ## Time Series
+
+![https://github.com/cruiseresearchgroup/DIEF_BTS/blob/main/snippet_6TS_plot.png](https://github.com/user-attachments/assets/14ccc7f9-28f7-4c18-a199-879ec2ad0ca0)
+
 * Amazon's Big TS tutorial https://www.amazon.science/videos-and-tutorials/forecasting-big-time-series-theory-and-practice
 * Swiss AI Lab tutorial: https://gmlg.ch/tutorials/graph-based-processing/ecml-2023 https://arxiv.org/abs/2310.15978
 * https://pytorch-geometric-temporal.readthedocs.io/
@@ -74,7 +77,10 @@ Reading:
 
 ## Basic Concepts
 
-By basic, I do not mean that this where people should start. That would be the pre-requisite. I do not mean that this is going to be easy either. I think people should have gotten dirty with a couple of hands on project before getting to this stage. I think, only by then people are going to be able the appreciate the basics, as in the different theories on what are the elementary building blocks, the fundamentals. Note that, as this is only a baby science, nobody knows what works, and how it works yet. But below is a collection of some theories that are most probably wrong, but contains some useful heuristic to help us along the way. I think it is worth slowing down and understanding every ideas in this section.
+By basic, I do not mean that this where people should start. That would be the pre-requisite.
+I do not mean that this is going to be easy or simple either. In fact, in my opinion, these are quite difficult and complex (or maybe I'm just not that smart).
+I think people should have gotten dirty with a couple of hands on project before getting to this stage. I think, only by then people are going to be able the appreciate the basics, as in the different theories on what are the elementary building blocks, the fundamentals.
+Note that, as this is only a baby science, nobody knows what works, and how it works yet. But below is a collection of some theories that are most probably wrong, but contains some useful heuristic to help us along the way. I think it is worth slowing down and understanding every ideas in this section.
 
 * Universal Approximation Theorem https://medium.datadriveninvestor.com/how-ai-works-explained-with-an-analogy-from-finance-9d89a919cd74
 * [Manifold Hypothesis](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) and NeuralODE
