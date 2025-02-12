@@ -22,8 +22,11 @@ Don't expect any real learning to be happening.
 Videos:
 * CGP Grey How AI learn https://youtu.be/R9OHn5ZF4Uo?si=twh2c7noeizD21UB https://youtu.be/wvWpdrfoEv0?si=wvuCZ9Ol5O_3crpD
 * 3b1b https://www.3blue1brown.com/topics/neural-networks
-* AlexNet / Computer Vision (CV) / Convolution (conv) https://youtu.be/UZDiGooFs54?si=nW3b5gWOcmF2I4i4
-* Reinforcement Learning (RL): https://youtu.be/Dw3BZ6O_8LY?si=SnDofUxoy4_kC7u9 https://youtu.be/JgvyzIkgxF0?si=gUXg6r8DsXTJbTBk https://youtu.be/MgowR4pq3e8?si=CzbkdpJ5IhzWarlj
+* AlexNet / Computer Vision (CV) / Convolution (conv) by Welch Labs https://youtu.be/UZDiGooFs54?si=nW3b5gWOcmF2I4i4
+* Reinforcement Learning (RL):
+  * Yosh Trackmania https://youtu.be/Dw3BZ6O_8LY?si=SnDofUxoy4_kC7u9
+  * Intro by Arxiv Insights https://youtu.be/JgvyzIkgxF0?si=gUXg6r8DsXTJbTBk
+  * AlphaGO by Arxiv Insights https://youtu.be/MgowR4pq3e8?si=CzbkdpJ5IhzWarlj
 
 Interactive stuff:
 * Decision Tree http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
