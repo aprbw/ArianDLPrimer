@@ -78,6 +78,27 @@ Reading:
 	* [CSUR 2018] Spatio-Temporal Data Mining: A Survey of Problems and Methods. Atluri et. al. https://arxiv.org/abs/1711.04710
 	* [TKDE 2020] Deep Learning for Spatio-Temporal Data Mining: A Survey. Wang et. al. https://ieeexplore.ieee.org/abstract/document/9204396
 
+## Get Dirty
+
+I think this the a good time to get your hand dirty for the first time.
+Earlier than this is better, but not later.
+* A simple way would be to join competitions: https://www.kaggle.com/
+* Another way is to simply try a new combination of method and dataset that people have not tried before. For example, there are always new timeseries forecasting algorithms: https://paperswithcode.com/task/time-series-forecasting/latest . Yet, usually, these new algorithms have not been tried on many of the timeseries dataset out there: https://forecastingdata.org/ .
+* More experiments and analysis. In an ideal world, every paper out there would be accompanied by a full barrage of experiments and analysis. But due to limited resource (and also efficiency), usually not the entire barrage of analysis have been done. This will give you an opportunity to pick up a paper that you like, and do extra analysis that the paper did not do. The list of analysis includes:
+  * Robustness: Hyper-parameter sensitivity
+  * Robustness: Initial weight sensitivity
+  * Robustness: Random seed for training data loader sensitivity
+  * Robustness: Noise in training data
+  * Robustness: Noise in input data during inference
+  * Scaling: Data
+  * Scaling: Compute
+  * Error Analysis: Generate a residual plot or a confusion matrix to find the source of systematic error
+  * Error Visualisation: Find the sample data with the largest amount of error and visualise the error
+  * Attention Mechanism Visualization
+  * Saliency Maps
+  * Linear Probes and [Tuned Lens](https://github.com/AlignmentResearch/tuned-lens)
+* Module combinations: Example, if there is a paper that uses an LSTM module, try to replace it with GRU or CNN or transformer.
+
 ## Basic Concepts
 
 By basic, I do not mean that this where people should start. That would be the pre-requisite.
