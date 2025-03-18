@@ -82,7 +82,7 @@ Reading:
 
 I think this the a good time to get your hand dirty for the first time.
 Earlier than this is better, but not later.
-* A simple way would be to join competitions: https://www.kaggle.com/
+* A simple way would be to join competitions: https://www.kaggle.com/ , https://www.aicrowd.com/, and self-promo here: https://www.aicrowd.com/challenges/brick-by-brick-2024
 * Another way is to simply try a new combination of method and dataset that people have not tried before. For example, there are always new timeseries forecasting algorithms: https://paperswithcode.com/task/time-series-forecasting/latest . Yet, usually, these new algorithms have not been tried on many of the timeseries dataset out there: https://forecastingdata.org/ .
 * More experiments and analysis. In an ideal world, every paper out there would be accompanied by a full barrage of experiments and analysis. But due to limited resource (and also efficiency), usually not the entire barrage of analysis have been done. This will give you an opportunity to pick up a paper that you like, and do extra analysis that the paper did not do. The list of analysis includes:
   * Robustness: Hyper-parameter sensitivity
@@ -103,7 +103,7 @@ Earlier than this is better, but not later.
 
 By basic, I do not mean that this where people should start. That would be the pre-requisite.
 I do not mean that this is going to be easy or simple either. In fact, in my opinion, these are quite difficult and complex (or maybe I'm just not that smart).
-I think people should have gotten dirty with a couple of hands on project before getting to this stage. I think, only by then people are going to be able the appreciate the basics, as in the different theories on what are the elementary building blocks, the fundamentals.
+I think people should have [gotten dirty](#get-dirty) with a couple of hands on project before getting to this stage. I think, only by then people are going to be able the appreciate the basics, as in the different theories on what are the elementary building blocks, the fundamentals.
 Note that, as this is only a baby science, nobody knows what works, and how it works yet. But below is a collection of some theories that are most probably wrong, but contains some useful heuristic to help us along the way. I think it is worth slowing down and understanding every ideas in this section.
 
 * Universal Approximation Theorem https://medium.datadriveninvestor.com/how-ai-works-explained-with-an-analogy-from-finance-9d89a919cd74
