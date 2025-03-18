@@ -70,6 +70,7 @@ Reading:
 
 ![https://github.com/cruiseresearchgroup/DIEF_BTS/blob/main/snippet_6TS_plot.png](https://github.com/user-attachments/assets/14ccc7f9-28f7-4c18-a199-879ec2ad0ca0)
 
+* https://scikit-learn.org/stable/auto_examples/applications/plot_cyclical_feature_engineering.html
 * Amazon's Big TS tutorial https://www.amazon.science/videos-and-tutorials/forecasting-big-time-series-theory-and-practice
 * Swiss AI Lab tutorial: https://gmlg.ch/tutorials/graph-based-processing/ecml-2023 https://arxiv.org/abs/2310.15978
 * https://pytorch-geometric-temporal.readthedocs.io/
