@@ -108,7 +108,7 @@ I think people should have [gotten dirty](#get-dirty) with a couple of hands on 
 Note that, as this is only a baby science, nobody knows what works, and how it works yet. But below is a collection of some theories that are most probably wrong, but contains some useful heuristic to help us along the way. I think it is worth slowing down and understanding every ideas in this section.
 
 * Universal Approximation Theorem https://medium.datadriveninvestor.com/how-ai-works-explained-with-an-analogy-from-finance-9d89a919cd74
-* [Manifold Hypothesis](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) and NeuralODE
+* [Manifold Hypothesis](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) and how RNN and ResNet are NeuralODE.
 * Yann LeCun
 	* Self-Supervised Learning https://arxiv.org/pdf/2304.12210
 	* Energy Based Models https://yann.lecun.com/exdb/publis/orig/lecun-06.pdf (also taught in his course https://atcold.github.io/NYU-DLSP21/)
