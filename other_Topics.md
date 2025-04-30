@@ -19,7 +19,9 @@ Note that the similarity of convolution with cellular automata (CA). So one way 
 * Lenia: CA but continous instead of discrete https://arxiv.org/abs/2005.03742 https://www.youtube.com/watch?v=7-97RhAZhXI
 * Particle Life: [reformulation of CA](https://youtu.be/Z_zmZ23grXE?si=DUSOc9f8xnDHB6Rt) using [n-body](https://en.wikipedia.org/wiki/N-body_problem#Other_n-body_problems) https://www.ventrella.com/Clusters/ and a YouTube viz and explainer https://youtu.be/p4YirERTVF0?si=32_mmGty--kFmSw6 that includes demo and implementation https://particle-life.com/ 
 
-
+So there are two ways to do this.
+1. We can use CA as a way to add mechanistic interpretability into existing CNN.
+2. The other way is to use CNN to figure out the CA rules required to get the behaviour that we want.
 
 
 
