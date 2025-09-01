@@ -72,6 +72,10 @@ Reading:
 
 * https://scikit-learn.org/stable/auto_examples/applications/plot_cyclical_feature_engineering.html
 * Amazon's Big TS tutorial https://www.amazon.science/videos-and-tutorials/forecasting-big-time-series-theory-and-practice
+* Learn the classical timeseries features first:
+	* https://tsfresh.readthedocs.io/
+	* https://tsfel.readthedocs.io/
+ 	* https://github.com/benfulcher/hctsa and https://github.com/DynamicsAndNeuralSystems/catch22
 * Swiss AI Lab tutorial: https://gmlg.ch/tutorials/graph-based-processing/ecml-2023 https://arxiv.org/abs/2310.15978
 * https://pytorch-geometric-temporal.readthedocs.io/
 * Explainable AI for Time Series Classification: A Review, Taxonomy and Research Directions https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9895252
