@@ -77,6 +77,7 @@ Reading:
 	* https://tsfel.readthedocs.io/
  	* https://github.com/benfulcher/hctsa and https://github.com/DynamicsAndNeuralSystems/catch22
   	* https://pyts.readthedocs.io
+  	* Understand why https://github.com/angus924/minirocket works.
 * Swiss AI Lab tutorial: https://gmlg.ch/tutorials/graph-based-processing/ecml-2023 https://arxiv.org/abs/2310.15978
 * https://pytorch-geometric-temporal.readthedocs.io/
 * Explainable AI for Time Series Classification: A Review, Taxonomy and Research Directions https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9895252
