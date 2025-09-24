@@ -106,8 +106,8 @@ Earlier than this is better, but not later.
   * Saliency Maps
   * Linear Probes and [Tuned Lens](https://github.com/AlignmentResearch/tuned-lens)
   * Some more domain specific stuff: For example, in timeseries:
-  		* Confirm that longer observation window size will improve performance
-    	* Confirm that longer forecasting horizon will decrease performance
+	* Confirm that longer observation window size will improve performance
+	* Confirm that longer forecasting horizon will decrease performance
 * Module combinations: Example, if there is a paper that uses an LSTM module, try to replace it with GRU or CNN or transformer.
 
 ## Basic Concepts
