@@ -99,11 +99,15 @@ Earlier than this is better, but not later.
   * Robustness: Noise in input data during inference
   * Scaling: Data
   * Scaling: Compute
+  * Evaluation metric: To what extent performance metric agres with one another.
   * Error Analysis: Generate a residual plot or a confusion matrix to find the source of systematic error
   * Error Visualisation: Find the sample data with the largest amount of error and visualise the error
   * Attention Mechanism Visualization
   * Saliency Maps
   * Linear Probes and [Tuned Lens](https://github.com/AlignmentResearch/tuned-lens)
+  * Some more domain specific stuff: For example, in timeseries:
+  		* Confirm that longer observation window size will improve performance
+    	* Confirm that longer forecasting horizon will decrease performance
 * Module combinations: Example, if there is a paper that uses an LSTM module, try to replace it with GRU or CNN or transformer.
 
 ## Basic Concepts
