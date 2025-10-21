@@ -48,6 +48,7 @@ Reading:
 1. Learn Python and the typical libraries (NumPy, SciPy, pandas, scikit-learn, matplotlib [properly](https://matplotlib.org/matplotblog/posts/pyplot-vs-object-oriented-interface/), Vega-Altair)
 1. A Neural Network in 11 lines of Python https://iamtrask.github.io/2015/07/12/basic-python-network/
 1. The famous Andew Ng's Coursera https://www.coursera.org/specializations/machine-learning-introduction
+1. "Highschool" level AI: https://ioai-official.org/wp-content/uploads/2025/10/Syllabus.pdf
 1. Yann LeCun's NYU Deep Learning course https://atcold.github.io/NYU-DLSP21/
 1. Bishop's PRML https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 1. Learn how to read papers. Start by listening to people talking about a paper, and then re-read it after you watch the talk. https://www.youtube.com/c/yannickilcher
